@@ -1,0 +1,43 @@
+.box{
+    background-color: rgb(4, 5, 68);
+    height: 500px;
+    width: 500px;
+    border-radius: 10px;
+    color: white;
+    text-align: center;
+
+}
+
+body{
+    background-color: rgba(1, 2, 51, 0.932);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.img{
+    height: 150px;
+    width: 150px; 
+    border-radius: 50%;
+    object-fit: cover;
+}
+.text{
+    color: rgb(153, 145, 145);
+    padding: 10px;
+    padding-left: 25px;
+    padding-right: 25px;
+}
+button{
+    background-color: rgb(24, 24, 187);
+    color: white  ;
+    height: 25px;
+    width: 100px;
+    border: none;
+    border-radius: 5px;
+}
+.shaw:hover{
+    background-color:cornflowerblue;
+}
+a{
+    text-decoration: none;
+    width: 100px;
+}

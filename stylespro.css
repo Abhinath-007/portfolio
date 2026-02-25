@@ -1,0 +1,27 @@
+body{
+    background-color: rgba(1, 2, 51, 0.932);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.box2{
+    height: 350px;
+    width: 350px;
+    background-color: rgb(52, 48, 90);
+    border-radius: 10px;
+    text-align: center;
+}
+.text{
+    color: rgb(197, 117, 117);
+}
+button{
+    background-color: rgb(24, 24, 187);
+    color: white  ;
+    height: 50px;
+    width: 100px;
+    border: none;
+    border-radius: 5px;
+}
+.shaw:hover{
+    background-color:cornflowerblue;
+}
